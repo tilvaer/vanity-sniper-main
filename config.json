@@ -1,0 +1,8 @@
+{
+  "token": "token",
+  "password": "pass",
+  "guildId": "claimguildid",
+  "maxSockets": 4,
+  "h2PoolSize": 4,
+  "mfaRefreshMs": 150000
+}

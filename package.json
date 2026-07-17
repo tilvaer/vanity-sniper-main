@@ -1,0 +1,13 @@
+{
+  "name": "tilavermfa-sniper",
+  "version": "1.0.0",
+  "description": "Tilaver Vanity Sniper — Raw TLS WebSocket + HTTP/2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --dns-result-order=ipv4first --no-warnings --max-semi-space-size=8 index.js"
+  },
+  "dependencies": {
+    "tilaver-mfa": "^1.0.0",
+    "ws": "^8.21.1"
+  }
+}
