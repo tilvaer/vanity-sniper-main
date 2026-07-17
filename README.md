@@ -1,11 +1,10 @@
 # Vanity Sniper
 
-**𝐖𝐄 𝐍𝐄𝐕𝐄𝐑 𝐋𝐎𝐒𝐄.**
 
 ## 📋 Installation
 
 ```
-npm install tilaver-mfa
+npm install
 ```
 ```
 node index.js
